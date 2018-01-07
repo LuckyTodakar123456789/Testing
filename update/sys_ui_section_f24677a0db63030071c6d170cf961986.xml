@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Profile Information" section_id="f24677a0db63030071c6d170cf961986" sys_domain="global" table="x_165588_practice_test" version="3" view="Practice1">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_glide_date_time_3</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-06 09:06:40</sys_created_on>
+            <sys_id>5346b7a0db63030071c6d170cf961906</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Profile Information" display_value="Profile Information" name="x_165588_practice_test" sys_domain="global" view="be4677a0db63030071c6d170cf961981">f24677a0db63030071c6d170cf961986</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-06 09:06:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Profile Information</caption>
+            <header>false</header>
+            <name>x_165588_practice_test</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-06 09:06:39</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f24677a0db63030071c6d170cf961986</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Profile Information</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Practice_1" source="x_165588_practice">628e6380db23030071c6d170cf9619a3</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Practice_1">628e6380db23030071c6d170cf9619a3</sys_scope>
+            <sys_update_name>sys_ui_section_f24677a0db63030071c6d170cf961986</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-06 09:06:39</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Practice1" name="Practice1">be4677a0db63030071c6d170cf961981</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
